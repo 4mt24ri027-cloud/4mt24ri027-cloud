@@ -1,68 +1,84 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,50:7aa2f7,100:bb9af7&height=120&section=header" width="100%" alt="" />
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:a855f7&height=135&section=header&text=Prajnesh%20Shetty&fontColor=ffffff&fontSize=42&animation=fadeIn" width="100%" alt="Prajnesh Shetty" />
 
-# Hi, I'm Prajnesh Shetty 👋
+  **Robotics & AI Engineering Student** · MITE, Moodbidri
 
-**Robotics & AI engineering student** at MITE, Moodbidri
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajnesh-shetty-208515385)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajneshshetty4856@gmail.com)
+</div>
 
-[![LinkedIn][badge-linkedin]][linkedin] [![Email][badge-email]][email]
+<br>
+
+<div>
+
+## <img src="https://img.shields.io/badge/ABOUT-111827?style=for-the-badge&labelColor=2563eb" />
+
+```text
+I'm dedicated to mastering Python, Machine Learning,
+and Scikit-Learn to build intelligent, data-driven solutions.
+```
 
 </div>
 
-<pre>
-<b>👤 About</b>
+<br>
 
-I'm dedicated to mastering
-Python, machine learning and
-Scikit-Learn so I can build
-intelligent, data-driven
-solutions.
-</pre>
+## <img src="https://img.shields.io/badge/SKILLS-111827?style=for-the-badge&labelColor=2563eb" />
 
-<!-- To change a badge, edit the name in its URL and the logo= value (logo names: simpleicons.org) -->
-<pre>
-<b>🛠️ Skills</b>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Python &amp; Machine Learning</h3>
+      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=60a5fa" />
+      <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=a78bfa" />
+      <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=60a5fa" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikitlearn&logoColor=f97316" />
+      <img src="https://img.shields.io/badge/XGBoost-111827?style=flat-square&logo=xgboost&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/LightGBM-111827?style=flat-square&logo=lightgbm&logoColor=60a5fa" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Tools &amp; Platforms</h3>
+      <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f97316" />
+      <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=facc15" />
+      <img src="https://img.shields.io/badge/Ubuntu-111827?style=flat-square&logo=ubuntu&logoColor=f97316" />
+      <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=f97316" />
+      <img src="https://img.shields.io/badge/Kaggle-111827?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+    </td>
+  </tr>
+</table>
 
-<b>Python &amp; ML</b>
-<img src="https://img.shields.io/badge/Python-292e42?style=flat-square&logo=python&logoColor=4B8BBE" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-292e42?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-292e42?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" /> <img src="https://img.shields.io/badge/Scikit--Learn-292e42?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/XGBoost-292e42?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-292e42?style=flat-square" alt="LightGBM" />
+<br>
 
-<b>Tools &amp; platforms</b>
-<img src="https://img.shields.io/badge/Git-292e42?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-292e42?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-292e42?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" /> <img src="https://img.shields.io/badge/Ubuntu-292e42?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Jupyter-292e42?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" /> <img src="https://img.shields.io/badge/Kaggle-292e42?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
-</pre>
+## <img src="https://img.shields.io/badge/FEATURED_PROJECT-111827?style=for-the-badge&labelColor=a855f7" />
 
-<pre>
-<b>🚀 Featured project</b>
+<table>
+  <tr>
+    <td>
+      <h3>Amazon ML Challenge 2026 · Business Entity Resolution</h3>
+      <p>A two-stage machine learning pipeline combining <b>blocking + matching</b> to resolve noisy business entities across three data sources.</p>
+      <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=60a5fa" />
+      <img src="https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=f97316" />
+      <br><br>
+      <a href="https://github.com/4mt24ri027-cloud/Amazon_ML_challenge_2026">
+        <img src="https://img.shields.io/badge/View_Project-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/4mt24ri027-cloud/Amazon_ML_challenge_2026"><b>Amazon ML Challenge 2026:
-Business Entity Resolution</b></a>
+<br>
 
-A two-stage ML pipeline
-(blocking + matching) that
-resolves noisy business
-entities across three data
-sources.
-
-<img src="https://img.shields.io/badge/Python-292e42?style=flat-square&logo=python&logoColor=4B8BBE" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-292e42?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-</pre>
+## <div align="center"><img src="https://img.shields.io/badge/GITHUB_STATS-111827?style=for-the-badge&labelColor=2563eb" /></div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4mt24ri027-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&border_radius=6&card_width=360" width="360" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mt24ri027-cloud&layout=donut&theme=tokyonight&hide_border=true&border_radius=6&hide=jupyter%20notebook&card_width=360" width="360" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com/?user=4mt24ri027-cloud&theme=tokyonight&hide_border=true&border_radius=6" width="360" alt="GitHub streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=4mt24ri027-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&border_radius=12&card_width=360" width="360" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mt24ri027-cloud&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&hide=jupyter%20notebook&card_width=360" width="360" alt="Most used languages" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=4mt24ri027-cloud&theme=tokyonight&hide_border=true&border_radius=12" width="360" alt="GitHub streak" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,50:7aa2f7,100:bb9af7&height=100&section=footer" width="100%" alt="" />
+<br>
 
-[linkedin]: https://www.linkedin.com/in/prajnesh-shetty-208515385
-[email]: mailto:prajneshshetty4856@gmail.com
-[badge-linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D
-[badge-email]: https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2YzEuMSAwIDIgLjkgMiAydjEyYzAgMS4xLS45IDItMiAySDRjLTEuMSAwLTItLjktMi0yVjZjMC0xLjEuOS0yIDItMnoiLz48cG9seWxpbmUgcG9pbnRzPSIyMiw2IDEyLDEzIDIsNiIvPjwvc3ZnPg%3D%3D
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:a855f7&height=105&section=footer" width="100%" alt="" />
+</div>
