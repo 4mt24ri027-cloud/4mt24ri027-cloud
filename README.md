@@ -10,55 +10,36 @@
 
 </div>
 
-<pre>
-<b>👤 About</b>
-
-I'm dedicated to mastering
-Python, machine learning and
-Scikit-Learn so I can build
-intelligent, data-driven
-solutions.
-</pre>
+<p align="center">
+  <img src="about.svg" width="360" align="top" vspace="4" alt="About: I'm dedicated to mastering Python, machine learning and Scikit-Learn so I can build intelligent, data-driven solutions." />
+  <a href="https://github.com/4mt24ri027-cloud/Amazon_ML_challenge_2026"><img src="featured.svg" width="360" align="top" vspace="4" alt="Featured project: Amazon ML Challenge 2026, Business Entity Resolution. A two-stage ML pipeline (blocking + matching) that resolves noisy business entities across three data sources." /></a>
+</p>
 
 <!-- To change a badge, edit the name in its URL and the logo= value (logo names: simpleicons.org) -->
-<pre>
-<b>🛠️ Skills</b>
+<h3 align="center">Skills</h3>
 
-<b>Python &amp; ML</b>
-<img src="https://img.shields.io/badge/Python-292e42?style=flat-square&logo=python&logoColor=4B8BBE" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-292e42?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-292e42?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" /> <img src="https://img.shields.io/badge/Scikit--Learn-292e42?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/XGBoost-292e42?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-292e42?style=flat-square" alt="LightGBM" />
+<p align="center">
+Python &amp; ML<br>
+<img src="https://img.shields.io/badge/Python-3b4261?style=flat-square&logo=python&logoColor=4B8BBE" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-3b4261?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-3b4261?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy" /> <img src="https://img.shields.io/badge/Scikit--Learn-3b4261?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/XGBoost-3b4261?style=flat-square" alt="XGBoost" /> <img src="https://img.shields.io/badge/LightGBM-3b4261?style=flat-square" alt="LightGBM" />
+</p>
 
-<b>Tools &amp; platforms</b>
-<img src="https://img.shields.io/badge/Git-292e42?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-292e42?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Linux-292e42?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" /> <img src="https://img.shields.io/badge/Ubuntu-292e42?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Jupyter-292e42?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" /> <img src="https://img.shields.io/badge/Kaggle-292e42?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
-</pre>
+<p align="center">
+Tools &amp; platforms<br>
+<img src="https://img.shields.io/badge/Git-3b4261?style=flat-square&logo=git&logoColor=F05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-3b4261?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Linux-3b4261?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" /> <img src="https://img.shields.io/badge/Ubuntu-3b4261?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Jupyter-3b4261?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" /> <img src="https://img.shields.io/badge/Kaggle-3b4261?style=flat-square&logo=kaggle&logoColor=20BEFF" alt="Kaggle" />
+</p>
 
-<pre>
-<b>🚀 Featured project</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4mt24ri027-cloud&show_icons=true&bg_color=343a58&border_color=6b76a8&border_radius=10&title_color=82aaff&text_color=c0caf5&icon_color=c4a7f9&ring_color=82aaff&rank_icon=github&custom_title=GitHub%20Stats&card_width=360" width="360" align="top" vspace="4" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mt24ri027-cloud&layout=compact&bg_color=343a58&border_color=6b76a8&border_radius=10&title_color=82aaff&text_color=c0caf5&hide=jupyter%20notebook&card_width=360" width="360" align="top" vspace="4" alt="Most used languages" />
+</p>
 
-<a href="https://github.com/4mt24ri027-cloud/Amazon_ML_challenge_2026"><b>Amazon ML Challenge 2026:
-Business Entity Resolution</b></a>
-
-A two-stage ML pipeline
-(blocking + matching) that
-resolves noisy business
-entities across three data
-sources.
-
-<img src="https://img.shields.io/badge/Python-292e42?style=flat-square&logo=python&logoColor=4B8BBE" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-292e42?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" />
-</pre>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4mt24ri027-cloud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats&border_radius=6&card_width=360" width="360" alt="GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4mt24ri027-cloud&layout=donut&theme=tokyonight&hide_border=true&border_radius=6&hide=jupyter%20notebook&card_width=360" width="360" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com/?user=4mt24ri027-cloud&theme=tokyonight&hide_border=true&border_radius=6" width="360" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=4mt24ri027-cloud&background=343a58&border=6b76a8&stroke=6b76a8&ring=82aaff&fire=c4a7f9&currStreakNum=c0caf5&sideNums=82aaff&currStreakLabel=c4a7f9&sideLabels=82aaff&dates=a9b1d6&border_radius=10" width="360" vspace="4" alt="GitHub streak" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,50:7aa2f7,100:bb9af7&height=100&section=footer" width="100%" alt="" />
 

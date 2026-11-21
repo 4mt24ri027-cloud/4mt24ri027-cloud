@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="214" viewBox="0 0 360 214" role="img" aria-label="Featured project">
+<title>Featured project</title><desc>Amazon ML Challenge 2026 - Business Entity Resolution. A two-stage ML pipeline (blocking + matching) that resolves noisy business entities across three data sources.</desc>
+<rect x="0.75" y="0.75" width="358.5" height="212.5" rx="10" fill="#343a58" stroke="#6b76a8" stroke-width="1.5"/>
+<text x="22" y="33" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#c4a7f9">Featured project</text>
+<line x1="22" y1="46" x2="338" y2="46" stroke="#6b76a8" stroke-opacity="0.6"/>
+<text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="700" fill="#e6ebff"><tspan x="22" y="74">Amazon ML Challenge 2026</tspan><tspan x="22" y="94">Business Entity Resolution</tspan></text>
+<text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="400" fill="#a9b1d6"><tspan x="22" y="118">A two-stage ML pipeline (blocking +</tspan><tspan x="22" y="136">matching) that resolves noisy business</tspan><tspan x="22" y="154">entities across three data sources.</tspan></text>
+<rect x="22" y="172" width="75" height="22" rx="11" fill="#292d45"/><circle cx="34" cy="183" r="4" fill="#4B8BBE"/><text x="44" y="187" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#c0caf5">Python</text>
+<rect x="105" y="172" width="82" height="22" rx="11" fill="#292d45"/><circle cx="117" cy="183" r="4" fill="#F37626"/><text x="127" y="187" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#c0caf5">Jupyter</text>
+</svg>
